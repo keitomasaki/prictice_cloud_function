@@ -1,0 +1,11 @@
+printWidth: 100 #1行の長さ
+tabWidth: 2 #インデントのスペースの数
+useTabs: false #インデントにタブを利用する(true)か、スペースを使用するか(false)
+semi: true #文末のセミコロンを使用するか
+singleQuote: true #文字列リテラルにシングルクォートを利用するか
+quoteProps: as-needed #オブジェクトリテラルのプロパティ名にクォーテーションを利用するか
+jsxSingleQuote: false #jsxのプロパティにシングルクォートを利用するか
+trailingComma: all #配列やオブジェクトリテラルの末尾のカンマを強制するか
+bracketSpacing: true #中括弧のなかのスペースをいれるか
+jsxBracketSameLine: false #JSXの' > 'の後ろに改行をいれるか
+arrowParens: always #Arrow演算子の引数を必ずかっこで括るか
