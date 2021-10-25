@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDom from 'react-dom';
+//windows
 // import { Facility } from './components/Facility';
 // import { Reservation } from './components/Reservation';
 import { Routing } from './components/Routing';
